@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1620136015 source:e:\hoc_tap\code\bonking\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<time.h>
+	<fstream>
+
+1620258663 source:d:\codeblocks\bonking\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<time.h>
+	<fstream>
+
